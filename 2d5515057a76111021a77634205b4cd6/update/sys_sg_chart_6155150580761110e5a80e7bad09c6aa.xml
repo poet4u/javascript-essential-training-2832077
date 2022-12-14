@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to document approvals this month">2d5515053a761110b50252b742c77baa</jump_to_screen>
+        <name>Approvals This Month</name>
+        <report display_value="Approvals This Month">29551505257611108bfa7aeb385f80b0</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:45</sys_created_on>
+        <sys_id>6155150580761110e5a80e7bad09c6aa</sys_id>
+        <sys_name>Approvals This Month</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_chart_6155150580761110e5a80e7bad09c6aa</sys_update_name>
+        <title/>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

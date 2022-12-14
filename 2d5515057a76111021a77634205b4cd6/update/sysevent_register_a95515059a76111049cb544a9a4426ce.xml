@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Change in state of document approval table</description>
+        <event_name>x_879347_lookup_0.notification_event</event_name>
+        <fired_by>Single Stage Approval Workflow for Document Approval</fired_by>
+        <queue/>
+        <suffix>notification_event</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+        <sys_id>a95515059a76111049cb544a9a4426ce</sys_id>
+        <sys_name>x_879347_lookup_0.notification_event</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sysevent_register_a95515059a76111049cb544a9a4426ce</sys_update_name>
+        <table/>
+    </sysevent_register>
+</record_update>

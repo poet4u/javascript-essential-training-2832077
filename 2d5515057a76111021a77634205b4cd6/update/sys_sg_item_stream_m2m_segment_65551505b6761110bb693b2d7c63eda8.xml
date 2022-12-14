@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">ed5515052f7611107b654ac29d72caa8</item_stream>
+        <segment display_value="Item Stream Segment">a15515052f76111074c2178b5f0fcfa8</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+        <sys_id>65551505b6761110bb693b2d7c63eda8</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_65551505b6761110bb693b2d7c63eda8</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

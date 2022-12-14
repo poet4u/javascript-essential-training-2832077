@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Contract Management" source="com.snc.contract_management">20b59620f9c211108c8bd16244dfe7c8</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 15:32:38</sys_created_on>
+        <sys_id>595917ea475711100d1593bd436d43f7</sys_id>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>

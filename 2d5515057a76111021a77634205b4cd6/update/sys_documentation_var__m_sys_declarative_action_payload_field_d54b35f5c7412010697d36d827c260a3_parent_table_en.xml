@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parent_table" label="parent_table" language="en" table="var__m_sys_declarative_action_payload_field_d54b35f5c7412010697d36d827c260a3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parent_table</element>
+            <help/>
+            <hint/>
+            <label>parent_table</label>
+            <language>en</language>
+            <name>var__m_sys_declarative_action_payload_field_d54b35f5c7412010697d36d827c260a3</name>
+            <plural>parent_table</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:43</sys_created_on>
+            <sys_name>parent_table</sys_name>
+            <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_declarative_action_payload_field_d54b35f5c7412010697d36d827c260a3_parent_table_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

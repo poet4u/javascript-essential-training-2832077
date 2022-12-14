@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_879347_lookup_0_document_approval_category" version="2" view="text_search">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="x_879347_lookup_0_document_approval_category" element="NULL" name="x_879347_lookup_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">e95515054c7611102fba5fed407b4da4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+            <sys_id>2d5515058e761110e26d2df2eb9601a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_879347_lookup_0_document_approval_category" element="NULL" name="x_879347_lookup_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">e95515054c7611102fba5fed407b4da4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+            <sys_id>6d551505927611101d645a6cbea5dba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>use_flow</element>
+            <list_id display_value="x_879347_lookup_0_document_approval_category" element="NULL" name="x_879347_lookup_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">e95515054c7611102fba5fed407b4da4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+            <sys_id>69551505777611109c6b4699e93a72a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_879347_lookup_0_document_approval_category" element="NULL" name="x_879347_lookup_0_document_approval_category" parent="NULL" relationship="NULL" sys_domain="global" view="0c029fc00a0a0b2c001aa3d4ed9f69e8">e95515054c7611102fba5fed407b4da4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+            <sys_id>a5551505d1761110e4e4a768275948a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:46</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_879347_lookup_0_document_approval_category</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e95515054c7611102fba5fed407b4da4</sys_id>
+            <sys_name>x_879347_lookup_0_document_approval_category</sys_name>
+            <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+            <sys_update_name>sys_ui_list_x_879347_lookup_0_document_approval_category_text_search</sys_update_name>
+            <sys_user/>
+            <view display_value="Text_search" name="text_search">0c029fc00a0a0b2c001aa3d4ed9f69e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="List">615515051c761110b1e47463439be699</macroponent>
+        <name>Update List Navigation IDs</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+    const {tinyId, listId} = event.payload;
+
+    if (tinyId) {
+			api.setState('tinyId', tinyId);
+    }
+    if (listId) {
+			api.setState('listId', listId);
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:53</sys_created_on>
+        <sys_id>a155150546761110f62cb20118a7e399</sys_id>
+        <sys_name>Update List Navigation IDs</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_client_script_a155150546761110f62cb20118a7e399</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="flow_designer" name="flow_designer">5a6498600b3122008e650851c5673aff</contains>
+        <role display_value="x_879347_lookup_0.admin" name="x_879347_lookup_0.admin">21551505a176111040ee742dd27614d6</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:43</sys_created_on>
+        <sys_id>2d551505bd761110e927d65c8b67b69f</sys_id>
+        <sys_name>flow_designer.</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_user_role_contains_2d551505bd761110e927d65c8b67b69f</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

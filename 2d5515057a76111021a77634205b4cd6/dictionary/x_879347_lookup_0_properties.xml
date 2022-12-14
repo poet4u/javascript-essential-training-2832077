@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8f881baa475711100d1593bd436d432c" extends="ast_contract" label="Properties" max_length="40" name="x_879347_lookup_0_properties" type="collection">
+        <element label="Available" max_length="40" name="available" type="string"/>
+        <element label="Back on the Market" max_length="40" name="back_on_the_market" type="string"/>
+        <element label="Hold" max_length="40" name="hold" type="string"/>
+        <element label="Pending" max_length="40" name="pending" type="string"/>
+        <element label="Under Contract" max_length="40" name="under_contract" type="string"/>
+        <element label="Withdrawn" max_length="40" name="withdrawn" type="string"/>
+    </element>
+</database>

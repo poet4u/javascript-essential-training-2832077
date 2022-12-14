@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_879347_lookup_0_document_approval</collection>
+        <email_layout display_value="Document Approval Notification Layout">a55515054c7611101b1b699076052fce</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Document Approval Template</name>
+        <sms_alternate/>
+        <subject>Document Approval Subject</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+        <sys_id>e5551505aa761110ab150c9c7df38ace</sys_id>
+        <sys_name>Document Approval Template</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sysevent_email_template_e5551505aa761110ab150c9c7df38ace</sys_update_name>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

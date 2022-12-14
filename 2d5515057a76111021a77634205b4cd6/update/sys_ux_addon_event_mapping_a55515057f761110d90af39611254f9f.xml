@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Create New Document Approval Category</name>
+        <parent_macroponent display_value="List Admin">e555150561761110f8765de3c2dfc09f</parent_macroponent>
+        <source_component/>
+        <source_da display_value="create-new-doc-category">69551505f1761110d4e4eb46fd47dacc</source_da>
+        <source_element_id>list</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a55515057f761110d90af39611254f9f</sys_id>
+        <sys_name>Create New Document Approval Category</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_a55515057f761110d90af39611254f9f</sys_update_name>
+        <target_event display_value="LIST#NAV_ITEM_SELECTED">a1551505a5761110cd439506c67f159f</target_event>
+        <target_payload_mapping>{&#13;
+  "type": "MAP_CONTAINER",&#13;
+  "container": {&#13;
+    "route": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "route"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "fields": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "fields"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "multiInstField": "sysId",&#13;
+    "params": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "params"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "redirect": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "redirect"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "passiveNavigation": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "passiveNavigation"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "title": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "title"&#13;
+        ]&#13;
+      }&#13;
+    },&#13;
+    "external": {&#13;
+      "type": "EVENT_PAYLOAD_BINDING",&#13;
+      "binding": {&#13;
+        "address": [&#13;
+          "external"&#13;
+        ]&#13;
+      }&#13;
+    }&#13;
+  }&#13;
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

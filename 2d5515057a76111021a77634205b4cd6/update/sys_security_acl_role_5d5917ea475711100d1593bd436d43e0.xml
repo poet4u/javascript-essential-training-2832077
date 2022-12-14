@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-24 15:32:37</sys_created_on>
+        <sys_id>5d5917ea475711100d1593bd436d43e0</sys_id>
+        <sys_name>x_879347_lookup_0_properties.x_879347_lookup_0.properties_user</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_security_acl display_value="x_879347_lookup_0_properties">555917ea475711100d1593bd436d43de</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5d5917ea475711100d1593bd436d43e0</sys_update_name>
+        <sys_user_role display_value="x_879347_lookup_0.properties_user" name="x_879347_lookup_0.properties_user">70595baa475711100d1593bd436d43b9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

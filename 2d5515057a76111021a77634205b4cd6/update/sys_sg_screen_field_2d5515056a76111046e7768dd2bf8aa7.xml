@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>document.description</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>200</order>
+        <record_id_field/>
+        <screen display_value="Details">a5551505fa7611103eb1bd4ca49d58aa</screen>
+        <screen_data_item_table>x_879347_lookup_0_document_approver</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:52</sys_created_on>
+        <sys_id>2d5515056a76111046e7768dd2bf8aa7</sys_id>
+        <sys_name>document.description</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_screen_field_2d5515056a76111046e7768dd2bf8aa7</sys_update_name>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_declarative_action_payload_mapping">
+    <sys_declarative_action_payload_mapping action="INSERT_OR_UPDATE">
+        <action_payload_definition display_value="Create New Doc Category">e555150574761110e15c066aa4ae1ecc</action_payload_definition>
+        <label>Create New Doc Category List</label>
+        <model display_value="List">c3547169534723003eddddeeff7b126c</model>
+        <payload_map>params@query={{query}}^parent_table={{parentTable}}^additional_data@query={{query}}^fields@table={{table}}^route=record^fields@sysId=-1^EQ</payload_map>
+        <sys_class_name>sys_declarative_action_payload_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:53</sys_created_on>
+        <sys_id>ad5515055276111068060af08b383ecb</sys_id>
+        <sys_name>Create New Doc Category List</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_declarative_action_payload_mapping_ad5515055276111068060af08b383ecb</sys_update_name>
+    </sys_declarative_action_payload_mapping>
+</record_update>

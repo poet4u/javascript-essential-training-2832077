@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="Roboto">65551505b17611109bd75ea054c90081</asset>
+        <properties>{"font-style":"normal", "font-weight":"400"}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a95515053b761110cc785588ee001680</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_a95515053b761110cc785588ee001680</sys_update_name>
+        <theme display_value="Doc Approval Theme">a55515055776111034bc5a6f74490fd2</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

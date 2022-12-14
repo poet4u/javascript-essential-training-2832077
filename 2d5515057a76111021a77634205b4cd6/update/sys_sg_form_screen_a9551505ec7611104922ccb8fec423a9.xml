@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">ed5515052576111014430fd9848fa7a9</icon>
+        <item_view/>
+        <name>Document Approval</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:53</sys_created_on>
+        <sys_id>a9551505ec7611104922ccb8fec423a9</sys_id>
+        <sys_name>Document Approval</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_form_screen_a9551505ec7611104922ccb8fec423a9</sys_update_name>
+        <table>x_879347_lookup_0_document_approver</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Document Approvals View Config">a5551505d476111019c3d29c686ea9a9</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a9551505ec7611104922ccb8fec423a9"/>
+</record_update>

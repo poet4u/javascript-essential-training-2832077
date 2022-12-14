@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">695515059a761110ee04854ac4cd61a9</icon>
+        <name>New Document Approvals</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:51</sys_created_on>
+        <sys_id>61551505ad76111056c90c1304d4c8a9</sys_id>
+        <sys_name>New Document Approvals</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_list_screen_61551505ad76111056c90c1304d4c8a9</sys_update_name>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=61551505ad76111056c90c1304d4c8a9"/>
+</record_update>

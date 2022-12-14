@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_879347_lookup_0.Heading</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>Heading</name>
+        <output_schema/>
+        <private>false</private>
+        <props>[{      "name":"userSessionFirstName",&#13;
+      "label":"User Session",&#13;
+      "description":"User Session",&#13;
+      "readOnly":false,&#13;
+      "fieldType":"object",&#13;
+      "mandatory":true,&#13;
+      "defaultValue":{}&#13;
+   }]</props>
+        <required_translations>[{"message":"User Session","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	
+    return gs.getMessage("{0}'s Document Approvals",input.userSessionFirstName);
+	
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:45</sys_created_on>
+        <sys_id>29551505c3761110ac4eff5a7f45b2ad</sys_id>
+        <sys_name>Heading</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_29551505c3761110ac4eff5a7f45b2ad</sys_update_name>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=29551505c3761110ac4eff5a7f45b2ad"/>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="view_doc">29551505e776111033ace58a33efb2cc</declarative_action_assignment>
+        <predicate display_value="Document Approval Genius Result">e9551505e37611103fd31b8fad718087</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:56</sys_created_on>
+        <sys_id>61551505ea76111047ef4c0394412283</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_61551505ea76111047ef4c0394412283</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

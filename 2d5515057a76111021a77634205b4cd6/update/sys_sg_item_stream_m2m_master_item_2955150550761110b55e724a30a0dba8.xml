@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Needs Attention Item Stream">ed5515052f7611107b654ac29d72caa8</item_stream>
+        <master_item display_value="Needs Attention Main Item">e1551505f47611106f61cb711c8685a8</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:51</sys_created_on>
+        <sys_id>2955150550761110b55e724a30a0dba8</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_2955150550761110b55e724a30a0dba8</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

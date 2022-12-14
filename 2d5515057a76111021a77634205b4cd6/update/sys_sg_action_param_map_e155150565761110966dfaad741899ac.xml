@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Reject document">25551505ec761110ed3043ab4de492ac</button>
+        <item_parameter display_value="comments">6155150569761110b16a36cd2de83bac</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:51</sys_created_on>
+        <sys_id>e155150565761110966dfaad741899ac</sys_id>
+        <sys_name>6155150569761110b16a36cd2de83bac</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e155150565761110966dfaad741899ac</sys_update_name>
+        <ui_parameter display_value="Reason for rejecting">6d551505327611106185d1dd37015cab</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

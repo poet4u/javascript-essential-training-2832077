@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public - Document Approval">a9551505967611104f580e00c55ba29e</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">ed55150594761110bb443a7e418a3e9d</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:50</sys_created_on>
+        <sys_id>a155150592761110bf4cf968a306879e</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_a155150592761110bf4cf968a306879e</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

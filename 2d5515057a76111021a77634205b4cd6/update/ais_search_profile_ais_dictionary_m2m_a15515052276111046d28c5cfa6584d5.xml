@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_879347_lookup_0_document_approval_sear">e9551505b9761110c12757df0c7126d5</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Document Approval Search Profile">655515059f761110612d1de285df2bd5</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:58</sys_created_on>
+        <sys_id>a15515052276111046d28c5cfa6584d5</sys_id>
+        <sys_name>x_879347_lookup_0_document_approval_sear.Document Approval Search Profile</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_a15515052276111046d28c5cfa6584d5</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

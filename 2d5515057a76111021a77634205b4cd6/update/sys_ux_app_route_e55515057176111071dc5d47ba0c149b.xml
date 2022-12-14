@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Doc Approval Portal App Config">ad55150543761110f01dca2741a04ed5</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>doc_landing</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>doc_landing</route_type>
+        <screen_type display_value="doc_landing">25551505a8761110914b12d109db509b</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:43</sys_created_on>
+        <sys_id>e55515057176111071dc5d47ba0c149b</sys_id>
+        <sys_name>doc_landing</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_app_route_e55515057176111071dc5d47ba0c149b</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e55515057176111071dc5d47ba0c149b"/>
+</record_update>

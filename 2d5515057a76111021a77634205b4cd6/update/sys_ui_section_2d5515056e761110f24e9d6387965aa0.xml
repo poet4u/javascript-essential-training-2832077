@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2d5515056e761110f24e9d6387965aa0" sys_domain="global" table="x_879347_lookup_0_document_approval" version="3" view="portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+            <sys_id>e9551505dc761110dec4025f81d3a5a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_879347_lookup_0_document_approval" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">2d5515056e761110f24e9d6387965aa0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_category</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+            <sys_id>ad551505a2761110654e89431504fea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_879347_lookup_0_document_approval" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">2d5515056e761110f24e9d6387965aa0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+            <sys_id>2955150508761110f39f7e1391741ba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_879347_lookup_0_document_approval" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">2d5515056e761110f24e9d6387965aa0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-25 17:33:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_879347_lookup_0_document_approval</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-25 17:33:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2d5515056e761110f24e9d6387965aa0</sys_id>
+            <sys_name>x_879347_lookup_0_document_approval</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+            <sys_update_name>sys_ui_section_2d5515056e761110f24e9d6387965aa0</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Portal" name="portal">cd9f0660f90211108c8bd16244dfe753</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

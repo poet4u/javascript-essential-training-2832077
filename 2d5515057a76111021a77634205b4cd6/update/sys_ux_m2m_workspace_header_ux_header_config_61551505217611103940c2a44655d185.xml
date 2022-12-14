@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Document Approval Portal">e9551505b07611101d6b474d351c0c85</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:46</sys_created_on>
+        <sys_id>61551505217611103940c2a44655d185</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_61551505217611103940c2a44655d185</sys_update_name>
+        <workspace_form_header display_value="x_879347_lookup_0_document_approval">61551505f376111007b4c7653b4d90ce</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_color">
+    <sys_report_color action="INSERT_OR_UPDATE">
+        <color>#E3F4ED</color>
+        <display>background-color:#E3F4ED</display>
+        <name>#E3F4ED</name>
+        <sys_class_name>sys_report_color</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:52</sys_created_on>
+        <sys_id>6d55150556761110636f2148b56e2ace</sys_id>
+        <sys_name>#E3F4ED</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_report_color_6d55150556761110636f2148b56e2ace</sys_update_name>
+        <themeable_color/>
+    </sys_report_color>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Activity">29551505b076111033c3f593f7b385ab</embedded_screen>
+        <form display_value="Document Approval">a9551505ec7611104922ccb8fec423a9</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>20</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:59</sys_created_on>
+        <sys_id>e5551505077611101142a11827fd55a9</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_form_segment_e5551505077611101142a11827fd55a9</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

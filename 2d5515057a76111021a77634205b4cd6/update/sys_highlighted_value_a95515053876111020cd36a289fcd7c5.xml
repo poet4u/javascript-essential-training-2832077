@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value">
+    <sys_highlighted_value action="INSERT_OR_UPDATE">
+        <field>state</field>
+        <sys_class_name>sys_highlighted_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:47</sys_created_on>
+        <sys_id>a95515053876111020cd36a289fcd7c5</sys_id>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_highlighted_value_a95515053876111020cd36a289fcd7c5</sys_update_name>
+        <table>x_879347_lookup_0_document_approver</table>
+        <workspace/>
+    </sys_highlighted_value>
+</record_update>

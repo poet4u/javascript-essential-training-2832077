@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="di_document_pending_approvals">ad551505ce761110370281baf4f474a9</data_item>
+        <interleaved_field/>
+        <name>Needs Attention Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:51</sys_created_on>
+        <sys_id>ed5515052f7611107b654ac29d72caa8</sys_id>
+        <sys_name>Needs Attention Item Stream</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_sg_item_stream_ed5515052f7611107b654ac29d72caa8</sys_update_name>
+        <table>x_879347_lookup_0_document_approver</table>
+    </sys_sg_item_stream>
+</record_update>

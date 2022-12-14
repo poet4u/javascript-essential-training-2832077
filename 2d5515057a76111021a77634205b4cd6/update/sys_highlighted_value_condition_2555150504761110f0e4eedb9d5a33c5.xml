@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_879347_lookup_0_document_approver">state=approved^EQ<item display_value="Approved" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="approved"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <highlighted_value display_value="state">a95515053876111020cd36a289fcd7c5</highlighted_value>
+        <icon/>
+        <order>0</order>
+        <show_icon>true</show_icon>
+        <status>positive</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:43</sys_created_on>
+        <sys_id>2555150504761110f0e4eedb9d5a33c5</sys_id>
+        <sys_name/>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_2555150504761110f0e4eedb9d5a33c5</sys_update_name>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

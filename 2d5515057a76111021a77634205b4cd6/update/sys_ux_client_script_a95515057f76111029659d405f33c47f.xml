@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Record">655515053a76111069dc6c931512389f</macroponent>
+        <name>Attachment pane hiding</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */    
+function handler({
+    api,
+    event,
+    helpers,
+    imports
+}) {
+    if (api.context.props.table != "x_879347_lookup_0_document_approver") {
+        api.setState('isValid', "left");  
+    } else {
+        api.setState('isValid', "both");  
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:41</sys_created_on>
+        <sys_id>a95515057f76111029659d405f33c47f</sys_id>
+        <sys_name>Attachment pane hiding</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_client_script_a95515057f76111029659d405f33c47f</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

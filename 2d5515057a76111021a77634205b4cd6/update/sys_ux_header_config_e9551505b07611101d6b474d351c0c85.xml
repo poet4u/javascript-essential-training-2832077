@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_header_config">
+    <sys_ux_header_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Header Configuration for Document Approval Portal</description>
+        <name>Document Approval Portal</name>
+        <sys_class_name>sys_ux_header_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 17:33:43</sys_created_on>
+        <sys_id>e9551505b07611101d6b474d351c0c85</sys_id>
+        <sys_name>Document Approval Portal</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_ux_header_config_e9551505b07611101d6b474d351c0c85</sys_update_name>
+    </sys_ux_header_config>
+</record_update>
