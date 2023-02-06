@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="0e555505477611100d1593bd436d431d" label="Document Approval" max_length="40" name="x_879347_lookup_0_document_approval" text_index="true" type="collection">
-        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Category" mandatory="true" max_length="32" name="approval_category" reference="x_879347_lookup_0_document_approval_category" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="4000" name="description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
