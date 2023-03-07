@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_design_access">
+    <sys_scope_design_access action="INSERT_OR_UPDATE">
+        <source_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</source_scope>
+        <sys_class_name>sys_scope_design_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 18:42:48</sys_created_on>
+        <sys_id>ffe3310e470121100d1593bd436d432d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>83fc16b73945460ca07a6dacb068593b</sys_name>
+        <sys_package display_value="Lookup Listing" source="x_879347_lookup_0">2d5515057a76111021a77634205b4cd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lookup Listing">2d5515057a76111021a77634205b4cd6</sys_scope>
+        <sys_update_name>sys_scope_design_access_ffe3310e470121100d1593bd436d432d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 18:42:48</sys_updated_on>
+        <target_package display_value="@devsnc/guided-wizard-toolkit" source="sn_gw_toolkit">83fc16b73945460ca07a6dacb068593b</target_package>
+    </sys_scope_design_access>
+</record_update>
